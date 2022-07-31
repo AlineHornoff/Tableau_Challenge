@@ -27,12 +27,12 @@ In this challenge, a data story is created for two unexpected phenomena with dat
 ## Output
 Check out my Story at my Tableau Public Website [here](https://public.tableau.com/app/profile/aline6218/viz/CityBike_16592406171560/NewYorkCityBikeUsageAnalysis?publish=yes).
 
-![Citi-Bikes Maps](images/MapComparison.jpg)
+![Citi-Bikes Maps](images/MapComparison.png)
 
-![Most popular bike type comparison](images/MostPopBikeType.jpg)
+![Most popular bike type comparison](images/MostPopBikeType.png)
 
-![Most popular bike type by start and end station comparison](images/MostPopBikeTypeStart.jpg)
+![Most popular bike type by start and end station comparison](images/MostPopBikeTypeStart.png)
 
-![10 Most popular start and end station comparison](images/MostPopStart.jpg)
+![10 Most popular start and end station comparison](images/MostPopStart.png)
 
-![10 Least popular start and end station comparison](images/LeastPopStart.jpg)
+![10 Least popular start and end station comparison](images/LeastPopStart.png)
